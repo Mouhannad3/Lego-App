@@ -1,0 +1,22 @@
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.deps.json
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.AssemblyInfo.cs
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\refint\LegoBL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoBL\obj\Debug\net9.0\ref\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.deps.json
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.AssemblyInfo.cs
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\refint\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoBL\obj\Debug\net9.0\ref\LegoBL.dll

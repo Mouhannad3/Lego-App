@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legoutil\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|solutionrelative:legoutil\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\consoleapplego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|solutionrelative:consoleapplego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legoutil\\filereaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|solutionrelative:legoutil\\filereaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\interfaces\\ilegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\interfaces\\ilegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\manager\\legomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\manager\\legomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\manager\\importlegomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\manager\\importlegomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6901CE8A-07A3-4E6E-AEFF-D186ED50F397}|LegoDL_SQL\\LegoDL_SQL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legodl_sql\\legorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6901CE8A-07A3-4E6E-AEFF-D186ED50F397}|LegoDL_SQL\\LegoDL_SQL.csproj|solutionrelative:legodl_sql\\legorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\consoleapplego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|solutionrelative:consoleapplego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\domein\\legoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\domein\\legoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\domein\\legotheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\domein\\legotheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA0108-88F3-45D6-8F8F-60D5A81B2CDF}|LegoDL_File\\LegoDL_File.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legodl_file\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA0108-88F3-45D6-8F8F-60D5A81B2CDF}|LegoDL_File\\LegoDL_File.csproj|solutionrelative:legodl_file\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\consoleapplego\\consoleapplego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6D05C70-36EF-4811-9C8E-46B34EA12A98}|ConsoleAppLego\\ConsoleAppLego.csproj|solutionrelative:consoleapplego\\consoleapplego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legobl\\exceptions\\legoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E64580-34EE-4C05-914D-F81FAFFD1872}|LegoBL\\LegoBL.csproj|solutionrelative:legobl\\exceptions\\legoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\Desktop\\PGtoets\\LegoTheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\Desktop\\PGtoets\\LegoSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legoutil\\legoutil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD5289E-2B53-4F66-B757-7CB94F700E47}|LegoUtil\\LegoUtil.csproj|solutionrelative:legoutil\\legoutil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6901CE8A-07A3-4E6E-AEFF-D186ED50F397}|LegoDL_SQL\\LegoDL_SQL.csproj|c:\\users\\mohan\\desktop\\graduuatsopleiding2\\2de semester\\gevoerderd1\\legosolution\\legodl_sql\\legodl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6901CE8A-07A3-4E6E-AEFF-D186ED50F397}|LegoDL_SQL\\LegoDL_SQL.csproj|solutionrelative:legodl_sql\\legodl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLego\\Program.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\Program.cs",
+              "RelativeToolTip": "ConsoleAppLego\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:14:02.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Interfaces\\IFileReader.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Interfaces\\IFileReader.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Interfaces\\IFileReader.cs",
+              "RelativeToolTip": "LegoBL\\Interfaces\\IFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:09:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "LegoUtil\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\RepositoryFactory.cs",
+              "RelativeToolTip": "LegoUtil\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:53:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegoManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Manager\\LegoManager.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Manager\\LegoManager.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Manager\\LegoManager.cs",
+              "RelativeToolTip": "LegoBL\\Manager\\LegoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:50:43.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsoleAppLego\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\appsettings.json",
+              "RelativeToolTip": "ConsoleAppLego\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T12:39:00.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LegoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoRepository.cs",
+              "RelativeDocumentMoniker": "LegoDL_SQL\\LegoRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoRepository.cs",
+              "RelativeToolTip": "LegoDL_SQL\\LegoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:46:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileReaderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\FileReaderFactory.cs",
+              "RelativeDocumentMoniker": "LegoUtil\\FileReaderFactory.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\FileReaderFactory.cs",
+              "RelativeToolTip": "LegoUtil\\FileReaderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:51:31.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportLegoManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Manager\\ImportLegoManager.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Manager\\ImportLegoManager.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Manager\\ImportLegoManager.cs",
+              "RelativeToolTip": "LegoBL\\Manager\\ImportLegoManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:11:41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILegoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Interfaces\\ILegoRepository.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Interfaces\\ILegoRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Interfaces\\ILegoRepository.cs",
+              "RelativeToolTip": "LegoBL\\Interfaces\\ILegoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:09:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LegoSet.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Domein\\LegoSet.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Domein\\LegoSet.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Domein\\LegoSet.cs",
+              "RelativeToolTip": "LegoBL\\Domein\\LegoSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:48:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsoleAppLego.csproj",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppLego\\ConsoleAppLego.csproj",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj",
+              "RelativeToolTip": "ConsoleAppLego\\ConsoleAppLego.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T12:42:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LegoTheme.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Domein\\LegoTheme.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Domein\\LegoTheme.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Domein\\LegoTheme.cs",
+              "RelativeToolTip": "LegoBL\\Domein\\LegoTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:48:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\FileReader.cs",
+              "RelativeDocumentMoniker": "LegoDL_File\\FileReader.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\FileReader.cs",
+              "RelativeToolTip": "LegoDL_File\\FileReader.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:02:41.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LegoException.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Exceptions\\LegoException.cs",
+              "RelativeDocumentMoniker": "LegoBL\\Exceptions\\LegoException.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\Exceptions\\LegoException.cs",
+              "RelativeToolTip": "LegoBL\\Exceptions\\LegoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:34:39.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LegoTheme.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\PGtoets\\LegoTheme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PGtoets\\LegoTheme.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\PGtoets\\LegoTheme.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PGtoets\\LegoTheme.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:27:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LegoSet.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\PGtoets\\LegoSet.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PGtoets\\LegoSet.cs",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\PGtoets\\LegoSet.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PGtoets\\LegoSet.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:27:09.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LegoUtil.csproj",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj",
+              "RelativeDocumentMoniker": "LegoUtil\\LegoUtil.csproj",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj",
+              "RelativeToolTip": "LegoUtil\\LegoUtil.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T14:31:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LegoDL_SQL.csproj",
+              "DocumentMoniker": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj",
+              "RelativeDocumentMoniker": "LegoDL_SQL\\LegoDL_SQL.csproj",
+              "ToolTip": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj",
+              "RelativeToolTip": "LegoDL_SQL\\LegoDL_SQL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T15:28:53.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

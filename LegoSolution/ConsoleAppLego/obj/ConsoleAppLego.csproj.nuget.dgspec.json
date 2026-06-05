@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj",
+        "projectName": "ConsoleAppLego",
+        "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\ConsoleAppLego.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\ConsoleAppLego\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj"
+              },
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj",
+        "projectName": "LegoBL",
+        "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\LegoDL_File.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\LegoDL_File.csproj",
+        "projectName": "LegoDL_File",
+        "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\LegoDL_File.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj",
+        "projectName": "LegoDL_SQL",
+        "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj",
+        "projectName": "LegoUtil",
+        "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\LegoUtil.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoUtil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoBL\\LegoBL.csproj"
+              },
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\LegoDL_File.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_File\\LegoDL_File.csproj"
+              },
+              "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj": {
+                "projectPath": "C:\\Users\\mohan\\Desktop\\Graduuatsopleiding2\\2de semester\\Gevoerderd1\\LegoSolution\\LegoDL_SQL\\LegoDL_SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

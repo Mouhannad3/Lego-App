@@ -1,0 +1,38 @@
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.AssemblyReference.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.AssemblyInfo.cs
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.deps.json
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_File.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_File.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.Up2Date
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\refint\LegoUtil.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoUtil\obj\Debug\net9.0\ref\LegoUtil.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.deps.json
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoUtil.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_File.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_File.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\bin\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.AssemblyReference.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.AssemblyInfo.cs
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.csproj.Up2Date
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\refint\LegoUtil.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\LegoUtil.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoUtil\obj\Debug\net9.0\ref\LegoUtil.dll

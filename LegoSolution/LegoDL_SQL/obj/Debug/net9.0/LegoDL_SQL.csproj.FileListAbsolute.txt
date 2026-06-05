@@ -1,0 +1,30 @@
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.deps.json
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.AssemblyReference.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.AssemblyInfo.cs
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.Up2Date
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\refint\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\ref\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.deps.json
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoBL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\bin\Debug\net9.0\LegoBL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.AssemblyReference.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.AssemblyInfoInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.AssemblyInfo.cs
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.csproj.Up2Date
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\refint\LegoDL_SQL.dll
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\LegoDL_SQL.pdb
+C:\Users\mohan\Desktop\Graduuatsopleiding2\2de semester\Gevoerderd1\LegoSolution\LegoDL_SQL\obj\Debug\net9.0\ref\LegoDL_SQL.dll
